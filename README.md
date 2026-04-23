@@ -1,6 +1,6 @@
 # Tugas Algoritma dan Pemrograman 2022
 
-Kumpulan tugas mata kuliah Algoritma dan Pemrograman, Teknik Informatika UGM, Semester 1 - 2022.
+Kumpulan tugas mata kuliah Algoritma dan Pemrograman, Teknik Informatika , Semester 1 - 2022.
 
 ## Daftar Tugas
 
