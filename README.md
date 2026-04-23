@@ -17,5 +17,4 @@ Kumpulan tugas mata kuliah Algoritma dan Pemrograman, Teknik Informatika , Semes
 - **Nama:** Raka Sendjaya
 - **NIM:** 22/123456/TK/12345
 - **Prodi:** Teknik Informatika
-- **Tahun:** 2022
 
