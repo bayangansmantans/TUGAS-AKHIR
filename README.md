@@ -17,6 +17,5 @@ Kumpulan tugas mata kuliah Algoritma dan Pemrograman, Teknik Informatika UGM, Se
 - **Nama:** Raka Sendjaya
 - **NIM:** 22/123456/TK/12345
 - **Prodi:** Teknik Informatika
-- **Universitas:** Universitas Gadjah Mada
 - **Tahun:** 2022
 
